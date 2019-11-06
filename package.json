@@ -34,7 +34,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mocha": "^6.2.0",
-    "mongoose": "^4.13.19",
+    "mongoose": "^5.7.5",
     "mongoose-auto-increment": "^5.0.1",
     "morgan": "^1.8.2",
     "nodemon": "^1.19.2",
